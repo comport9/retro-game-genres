@@ -73,3 +73,7 @@ Each list is a tab-separated file, one game per line: `Genre<TAB>Title`. Lines s
 
 The games were filed with the help of AI, from its knowledge of each game, against the table above; games it didn't
 know were left out rather than guessed. Expect some mistakes. Corrections are welcome as issues or pull requests.
+
+## Licence
+
+[CC0 1.0](LICENSE): public domain. Use the lists for anything, with or without credit.
